@@ -25,7 +25,7 @@ SECRET_KEY = '6=eut5dpi(=!+yo9hk57yw%8_kq-3l9ygs#4@2=s6hn&1c@z&*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django.psym-pl.com']
 
 
 # Application definition
